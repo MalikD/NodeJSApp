@@ -1,0 +1,16 @@
+{
+  "name": "njs-303b",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "method-override": "^2.3.6",
+    "node-sass-middleware": "^0.9.8",
+    "pug": "^2.0.0-beta6",
+    "sqlite": "^2.2.0"
+  }
+}
